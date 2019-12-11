@@ -93,7 +93,7 @@ app.controller('FlowControllerV2', ['$scope', '$stateParams', 'FlowServiceV2', '
         }
       };
       $scope.flowRuleDialog = {
-        title: '新增流控规则2',
+        title: '新增流控规则',
         type: 'add',
         confirmBtnText: '新增',
         showAdvanceButton: true,
